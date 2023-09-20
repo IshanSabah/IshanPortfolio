@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: IshanPortfolio.github.io/IshanPortfolio 
-favicon: /-/IshanPortfolio.github.io/IshanPortfolio/favicon.ico
+-- fastn.package: ishansabah.github.io/ishansabah 
+favicon: /-/ishansabah.github.io/IshanPortfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
